@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8922efd-edc1-4ec8-80fd-52bebbf4409d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="59" column="15" lean-forward="true" selection-start-line="59" selection-end-line="60" />
+              <folding>
+                <element signature="e#14#106#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Geetest/Geetest.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1691">
+              <caret line="210" column="34" selection-start-line="210" selection-start-column="26" selection-end-line="210" selection-end-column="34" />
+              <folding>
+                <element signature="e#277#554#0" />
+                <element signature="n#!!block;n#GetTrail#0" />
+                <element signature="n#!!block;n#GetData#0" />
+                <element signature="n#!!block;n#GetEp#0" />
+                <element signature="n#!!block;n#GetTM#0" />
+                <element signature="n#!!block;n#GetAA#0" />
+                <element signature="e#72768#100993#1" />
+                <element signature="n#!!block;n#recoveryPic#0" />
+                <element signature="e#101471#101473#0" />
+                <element signature="n#!!block;n#AesToStr#0" />
+                <element signature="n#!!block;n#ddd#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>recoveryPic</find>
+      <find>print</find>
+      <find>ret</find>
+      <find>Println</find>
+      <find>GetTrail</find>
+      <find>url,p.UserAgent,&quot;&quot;,&quot;&quot;</find>
+      <find>rp:=</find>
+      <find>rp</find>
+      <find>p.rp</find>
+      <find>GetData</find>
+      <find>Passtime</find>
+      <find>fmt.Println</find>
+      <find>GETep</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>url,p.UserAgent,&quot;&quot;,p.Proxy</replace>
+    </replaceStrings>
+  </component>
+  <component name="GOROOT" path="D:\pro\Go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tools/tools.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/Geetest/Geetest.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="56" />
+    <option name="width" value="2045" />
+    <option name="height" value="1225" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jy" type="462c0819:PsiDirectoryNode" />
+              <item name="Geetest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jy" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jy" />
+      <working_directory value="D:\2019\5.22golang\jy" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jy" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",Show Private Members" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" sideWeight="0.50092083" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49798927" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50469166" side_tool="true" weight="0.2446959" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4953083" weight="0.2956153" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49597856" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>1</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;ssss&quot;</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>aa</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;aa&quot;</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>`{&quot;aa&quot;:&quot;L------.-..-00E00/0.!!Lxuusttsytyyyyyyy((y-(((((4(((((((((((!!($)ZTSKB?8OEDAPCFQT8NFO8HCOLGABNQ@QLK8I&quot;,&quot;ep&quot;:{&quot;f&quot;:&quot;0be913d02d42a442368b29496292a44d&quot;,&quot;te&quot;:false,&quot;me&quot;:true,&quot;tm&quot;:{&quot;f&quot;:1558952713396,&quot;u&quot;:1558952714315,&quot;k&quot;:1558952713575,&quot;e&quot;:0,&quot;l&quot;:1558952713576,&quot;r&quot;:1558952714315,&quot;n&quot;:1558952714092,&quot;o&quot;:1558952714114,&quot;p&quot;:1558952714311,&quot;t&quot;:1558952714315,&quot;d&quot;:0,&quot;m&quot;:1558952714088,&quot;g&quot;:1558952713398,&quot;b&quot;:1558952713369,&quot;c&quot;:1558952713382,&quot;j&quot;:1558952713535,&quot;q&quot;:1558952714311,&quot;h&quot;:1558952713451,&quot;s&quot;:1558952714315,&quot;i&quot;:1558952713451,&quot;a&quot;:1558952713358},&quot;v&quot;:&quot;7.5.5&quot;},&quot;rp&quot;:&quot;0c30ddfc8a6850124960ae92035e9301&quot;,&quot;lang&quot;:&quot;zh-cn&quot;,&quot;userresponse&quot;:&quot;eeeb66bb66ebe1dd14&quot;,&quot;passtime&quot;:1024,&quot;imgload&quot;:1411}`</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>{&quot;lang&quot;:&quot;zh-cn&quot;,&quot;userresponse&quot;:&quot;e666e6bb6bb6bfddd9&quot;,&quot;passtime&quot;:1024,&quot;imgload&quot;:341,&quot;aa&quot;:&quot;L()))**),*,,,,,,Q,--,----.-..-40000/0.!!L!)!)!)(((((((((E(((((((((((((((((((((((!!($)ZTSKB?-8OEDAPCFQT8NFO8HCOLGABN@QLK8I&quot;,&quot;ep&quot;:{&quot;v&quot;:&quot;7.5.5&quot;,&quot;f&quot;:&quot;0be913d02d42a442368b29496292a44d&quot;,&quot;te&quot;:false,&quot;me&quot;:true,&quot;tm&quot;:{&quot;a&quot;:1558952844192,&quot;b&quot;:1558952844206,&quot;c&quot;:1558952844220,&quot;d&quot;:0,&quot;e&quot;:0,&quot;f&quot;:1558952844235,&quot;g&quot;:1558952844238,&quot;h&quot;:1558952844285,&quot;i&quot;:1558952844285,&quot;j&quot;:1558952844360,&quot;k&quot;:1558952844395,&quot;l&quot;:1558952844397,&quot;m&quot;:1558952844885,&quot;n&quot;:1558952844888,&quot;o&quot;:1558952844914,&quot;p&quot;:1558952845114,&quot;q&quot;:1558952845115,&quot;r&quot;:1558952845119,&quot;s&quot;:1558952845119,&quot;t&quot;:1558952845120,&quot;u&quot;:1558952845120}},&quot;rp&quot;:&quot;0c30ddfc8a6850124960ae92035e9301&quot;}&quot;</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>{&quot;lang&quot;:&quot;zh-cn&quot;,&quot;userresponse&quot;:&quot;e666e6bb6bb6bfddd9&quot;,&quot;passtime&quot;:1024,&quot;imgload&quot;:341,&quot;aa&quot;:&quot;L()))**),*,,,,,,Q,--,----.-..-40000/0.!!L!)!)!)(((((((((E(((((((((((((((((((((((!!($)ZTSKB?-8OEDAPCFQT8NFO8HCOLGABN@QLK8I&quot;,&quot;ep&quot;:{&quot;v&quot;:&quot;7.5.5&quot;,&quot;f&quot;:&quot;0be913d02d42a442368b29496292a44d&quot;,&quot;te&quot;:false,&quot;me&quot;:true,&quot;tm&quot;:{&quot;a&quot;:1558952844192,&quot;b&quot;:1558952844206,&quot;c&quot;:1558952844220,&quot;d&quot;:0,&quot;e&quot;:0,&quot;f&quot;:1558952844235,&quot;g&quot;:1558952844238,&quot;h&quot;:1558952844285,&quot;i&quot;:1558952844285,&quot;j&quot;:1558952844360,&quot;k&quot;:1558952844395,&quot;l&quot;:1558952844397,&quot;m&quot;:1558952844885,&quot;n&quot;:1558952844888,&quot;o&quot;:1558952844914,&quot;p&quot;:1558952845114,&quot;q&quot;:1558952845115,&quot;r&quot;:1558952845119,&quot;s&quot;:1558952845119,&quot;t&quot;:1558952845120,&quot;u&quot;:1558952845120}},&quot;rp&quot;:&quot;0c30ddfc8a6850124960ae92035e9301&quot;}</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/pro/Go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="689" selection-start-line="689" selection-end-line="689" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!block;n#TestNilCallArg#0" />
+            <element signature="e#333#417#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/tools.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+          <folding>
+            <element signature="n#!!block;n#RandString#0" />
+            <element signature="n#!!block;n#Int2String#0" />
+            <element signature="n#!!block;n#GetKey#0" />
+            <element signature="n#!!block;n#GetTimestamp#0" />
+            <element signature="n#!!block;n#GetRandIP#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="59" column="15" lean-forward="true" selection-start-line="59" selection-end-line="60" />
+          <folding>
+            <element signature="e#14#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geetest/Geetest.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1691">
+          <caret line="210" column="34" selection-start-line="210" selection-start-column="26" selection-end-line="210" selection-end-column="34" />
+          <folding>
+            <element signature="e#277#554#0" />
+            <element signature="n#!!block;n#GetTrail#0" />
+            <element signature="n#!!block;n#GetData#0" />
+            <element signature="n#!!block;n#GetEp#0" />
+            <element signature="n#!!block;n#GetTM#0" />
+            <element signature="n#!!block;n#GetAA#0" />
+            <element signature="e#72768#100993#1" />
+            <element signature="n#!!block;n#recoveryPic#0" />
+            <element signature="e#101471#101473#0" />
+            <element signature="n#!!block;n#AesToStr#0" />
+            <element signature="n#!!block;n#ddd#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
